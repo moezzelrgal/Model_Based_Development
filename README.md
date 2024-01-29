@@ -21,6 +21,9 @@ Model-Based Development (MBD) is a methodology that uses models as the core arti
 ## LABs
 
 ### [lAB 1: [MATLAB]](LAB1.m)
+Objective: This lab exercise will help you practice essential MATLAB concepts, including
+creating and manipulating numeric arrays, performing matrix concatenation, and using the
+repmat function.
 
 
 ## Projects
