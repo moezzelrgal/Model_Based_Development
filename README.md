@@ -20,7 +20,7 @@ Model-Based Development (MBD) is a methodology that uses models as the core arti
 
 ## LABs
 
-### [lAB 1: [MATLAB]](LABs/lAB1.m)
+### [lAB 1: [MATLAB]](LAB1.m)
 
 
 ## Projects
