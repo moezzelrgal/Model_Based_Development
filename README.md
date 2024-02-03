@@ -37,21 +37,14 @@ Objective: In this task,  will create a MATLAB program that covers various aspec
 
 ## Simulink
 
-### [Task 1: [MATLAB Numeric Types and Array Manipulation]](Task_1.m)
-Objective: In this task,  will create a MATLAB program that covers various aspects of MATLAB numeric types, creating numeric arrays, using specialized matrix functions, and matrix concatenation.
+
 
 
 ## Projects
 
-### [Project 1: [Project Name]](projects/project1/)
 
-Brief description of Project 1.
 
-### [Project 2: [Project Name]](projects/project2/)
 
-Brief description of Project 2.
-
-...
 
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
