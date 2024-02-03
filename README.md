@@ -19,7 +19,7 @@ This repository is dedicated to my studies and projects related to Model-Based D
 
 Model-Based Development (MBD) is a methodology that uses models as the core artifacts in the development process. It involves creating abstract representations of a system and using these models for analysis, design, and implementation. This section provides a brief introduction to MBD and its benefits.
 
-## [MATLAB](MATLAB)
+## MATLAB
 
 ### lABs
 
@@ -35,7 +35,7 @@ repmat function.
 
 Objective: In this task,  will create a MATLAB program that covers various aspects of MATLAB numeric types, creating numeric arrays, using specialized matrix functions, and matrix concatenation.
 
-## [Simulink](Simulink)
+## Simulink
 
 ### [Task 1: [MATLAB Numeric Types and Array Manipulation]](Task_1.m)
 Objective: In this task,  will create a MATLAB program that covers various aspects of MATLAB numeric types, creating numeric arrays, using specialized matrix functions, and matrix concatenation.
