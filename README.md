@@ -56,6 +56,8 @@ Brief description of Project 2.
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
   - `/LAB1`: Details about LAB 1.
+- `/Tasks`: Contains subdirectories for each individual Task.
+  - `/Task1`: Details about Task 1.
 - `/projects`: Contains subdirectories for each individual project.
   - `/project1`: Details about Project 1.
   - `/project2`: Details about Project 2.
