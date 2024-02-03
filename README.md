@@ -19,7 +19,7 @@ Model-Based Development (MBD) is a methodology that uses models as the core arti
 
 ## MATLAB
 
-### lABs
+### LABs
 
 #### [lAB 1: ](MATLAB/LABs/LAB1.m)
 
@@ -35,7 +35,7 @@ Objective: In this task,  will create a MATLAB program that covers various aspec
 
 ## Simulink
 
-### lABs
+### LABs
 
 #### [lAB 1: Basic Simulink Blocks ](Simulink/LABs/LAB1.slx)
 
