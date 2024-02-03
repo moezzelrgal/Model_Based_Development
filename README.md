@@ -7,8 +7,8 @@ This repository is dedicated to my studies and projects related to Model-Based D
 ## Table of Contents
 
 1. [Introduction to Model-Based Development](#introduction-to-model-based-development)
-2. [Tasks](#Tasks)
-3. [LABs](#LABs)
+2. [MATLAB](#MATLAB)
+3. [Simulink](#Simulink)
 4. [Projects](#projects)
 5. [Folder Structure](#folder-structure)
 6. [Getting Started](#getting-started)
@@ -22,12 +22,17 @@ Model-Based Development (MBD) is a methodology that uses models as the core arti
 ## MATLAB
 
 ### lABs
+
 [lAB 1: ](MATLAB/LAB1.m)
 Objective: This lab exercise will help you practice essential MATLAB concepts, including
 creating and manipulating numeric arrays, performing matrix concatenation, and using the
 repmat function.
 
-## SIMULINK
+###Tasks
+[Task 1: ](MATLAB/Task_1.m)
+Objective: In this task,  will create a MATLAB program that covers various aspects of MATLAB numeric types, creating numeric arrays, using specialized matrix functions, and matrix concatenation.
+
+## Simulink
 
 ### [Task 1: [MATLAB Numeric Types and Array Manipulation]](Task_1.m)
 Objective: In this task,  will create a MATLAB program that covers various aspects of MATLAB numeric types, creating numeric arrays, using specialized matrix functions, and matrix concatenation.
