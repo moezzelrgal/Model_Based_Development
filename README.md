@@ -31,7 +31,7 @@ repmat function.
 
 ### Tasks
 
-#### [Task 1: ](MATLAB/Tasks/Task_1.m)
+#### [Task 1: MATLAB Numeric Types and Array Manipulation](MATLAB/Tasks/Task_1.m)
 
 Objective: In this task,  will create a MATLAB program that covers various aspects of MATLAB numeric types, creating numeric arrays, using specialized matrix functions, and matrix concatenation.
 
