@@ -25,6 +25,11 @@ Objective: This lab exercise will help you practice essential MATLAB concepts, i
 creating and manipulating numeric arrays, performing matrix concatenation, and using the
 repmat function.
 
+## Tasks
+
+### [Task 1: [MATLAB Numeric Types and Array Manipulation]](Task_1.m)
+Objective: In this task,  will create a MATLAB program that covers various aspects of MATLAB numeric types, creating numeric arrays, using specialized matrix functions, and matrix concatenation.
+
 
 ## Projects
 
