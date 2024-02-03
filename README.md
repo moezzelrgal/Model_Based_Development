@@ -11,9 +11,7 @@ This repository is dedicated to my studies and projects related to Model-Based D
 3. [Simulink](#Simulink)
 4. [Projects](#projects)
 5. [Folder Structure](#folder-structure)
-6. [Getting Started](#getting-started)
-7. [Contributing](#contributing)
-8. [License](#license)
+   
 
 ## Introduction to Model-Based Development
 
