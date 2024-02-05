@@ -28,6 +28,19 @@ Objective: This lab exercise will help you practice essential MATLAB concepts, i
 creating and manipulating numeric arrays, performing matrix concatenation, and using the
 repmat function.
 
+#### [lAB 2: ](MATLAB/LABs/LAB2.m)
+
+Objective: In this lab, you will practice working with MATLAB's control structures, specifically the while loop and the switch statement.
+
+#### [lAB 3: ](MATLAB/LABs/LAB3.m)
+
+Objective: In this practical lab, beginners will learn and practice fundamental MATLAB concepts, including cell arrays, structures, character data, conditional statements (if), for loops, and basic plotting.
+
+#### [lAB 4: ](MATLAB/LABs/LAB4.m)
+
+Objective: In this lab, you will learn and practice fundamental concepts related to MATLAB functions. You will create your own functions, understand function inputs and outputs, and explore common function features.
+
+
 ### Tasks
 
 #### [Task 1: MATLAB Numeric Types and Array Manipulation](MATLAB/Tasks/Task_1.m)
