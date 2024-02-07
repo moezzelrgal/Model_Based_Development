@@ -51,9 +51,13 @@ Objective: In this task,  will create a MATLAB program that covers various aspec
 
 ### LABs
 
-#### [lAB 1: Basic Simulink Blocks ](Simulink/LABs/LAB1.slx)
+#### [lAB 1: Basic Simulink Blocks ](Simulink/LAB1)
 
 Objective: In this lab,  will gain hands-on experience with fundamental Simulink blocks and learn how to create a simple simulation model.
+
+#### [lAB 2: Basic Simulink Blocks ](Simulink/LAB2)
+
+Objective: By the end of this lab, should be able to create and simulate a simple Simulink model, understand basic Simulink blocks, and connect them to build a functional system.
 
 
 ## Projects
