@@ -65,7 +65,7 @@ Objective: By the end of this lab, should be able to create and simulate a simpl
 
 ## Projects
 
-#### [Robot Arm Simulation ](Projects/Robot_Arm_Simulation)
+#### [Robot Arm Simulation ](Pojects/Robot_Arm_Simulation)
 
 Objective: MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
 
