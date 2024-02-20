@@ -25,21 +25,21 @@ Model-Based Development (MBD) is a methodology that uses models as the core arti
 
 ### LABs
 
-#### [lAB 1: MATLAB concepts ](MATLAB/LABs/LAB1.m)
+#### [LAB 1: MATLAB concepts ](MATLAB/LABs/LAB1.m)
 
 Objective: This lab exercise will help you practice essential MATLAB concepts, including
 creating and manipulating numeric arrays, performing matrix concatenation, and using the
 repmat function.
 
-#### [lAB 2: MATLAB Control Structures - While and Switch ](MATLAB/LABs/LAB2.m)
+#### [LAB 2: MATLAB Control Structures - While and Switch ](MATLAB/LABs/LAB2.m)
 
 Objective: In this lab, you will practice working with MATLAB's control structures, specifically the while loop and the switch statement.
 
-#### [lAB 3: MATLAB Basics ](MATLAB/LABs/LAB3.m)
+#### [LAB 3: MATLAB Basics ](MATLAB/LABs/LAB3.m)
 
 Objective: In this practical lab, beginners will learn and practice fundamental MATLAB concepts, including cell arrays, structures, character data, conditional statements (if), for loops, and basic plotting.
 
-#### [lAB 4: Understanding MATLAB Function Concepts ](MATLAB/LABs/LAB4.m)
+#### [LAB 4: Understanding MATLAB Function Concepts ](MATLAB/LABs/LAB4.m)
 
 Objective: In this lab, you will learn and practice fundamental concepts related to MATLAB functions. You will create your own functions, understand function inputs and outputs, and explore common function features.
 
@@ -54,18 +54,20 @@ Objective: In this task,  will create a MATLAB program that covers various aspec
 
 ### LABs
 
-#### [lAB 1: Basic Simulink Blocks ](Simulink/LAB1)
+#### [LAB 1: Basic Simulink Blocks ](Simulink/LAB1)
 
 Objective: In this lab,  will gain hands-on experience with fundamental Simulink blocks and learn how to create a simple simulation model.
 
-#### [lAB 2: Basic Simulink Blocks ](Simulink/LAB2)
+#### [LAB 2: Basic Simulink Blocks ](Simulink/LAB2)
 
 Objective: By the end of this lab, should be able to create and simulate a simple Simulink model, understand basic Simulink blocks, and connect them to build a functional system.
 
 
 ## Projects
 
+#### [Robot Arm Simulation ](Projects/Robot_Arm_Simulation)
 
+Objective: MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
 
 
 
