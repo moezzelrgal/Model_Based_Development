@@ -80,7 +80,7 @@ Objective: This project explores the behavior of a Spring-Mass-Damper system usi
 
 Objective: This project focuses on simulating the motion of a simple pendulum using MATLAB/Simulink and generating C code for deployment on ARM Cortex-M hardware platforms. The simulation model is based on the differential equation governing the motion of a simple pendulum, considering parameters such as length and gravitational acceleration. The generated C code efficiently computes the pendulum's motion, providing an execution- and memory-efficient solution suitable for embedded systems.
 
-#### [RC Circuit Simulation](Pojects/RC_Circute_Simulation)
+#### [RC Circuit Simulation](Pojects/RC_Circuit_Simulation)
 
 Objective: This project involves creating a Simulink model to simulate an RC circuit and generating C code from the model for deployment on embedded systems, specifically targeting Atmel AVR hardware.
 
