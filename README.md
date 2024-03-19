@@ -88,6 +88,10 @@ Objective: This project involves creating a Simulink model to simulate an RC cir
 
 Objective: project involves the design, simulation, code generation, and deployment of a temperature control system using MATLAB/Simulink. The aim is to create a control system that regulates the temperature of a system based on a given setpoint. code is generated for the Simulink model "Temperature_Control". It represents the implementation of a temperature control system designed in Simulink and optimized for execution and memory efficiency on ARM Cortex-A compatible embedded hardware.
 
+#### [Automated Irrigation Control System](Pojects/Automated_Irrigation_Control_System)
+
+Objective: The project focuses on designing and implementing an automated irrigation control system to optimize water usage in agricultural or garden settings. The system utilizes soil moisture sensors to monitor the moisture level in the soil and activates irrigation when necessary to maintain optimal soil moisture levels. MATLAB/Simulink is used for system modeling, control algorithm design, and code generation. The generated code is then deployed onto an Atmel AVR microcontroller for real-time control and operation.
+
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
   - `/LAB1`: Details about LAB 1.
