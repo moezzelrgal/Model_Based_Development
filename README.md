@@ -13,7 +13,7 @@ This repository is dedicated to my studies and projects related to Model-Based D
 1. [Introduction to Model-Based Development](#introduction-to-model-based-development)
 2. [MATLAB](#MATLAB)
 3. [Simulink](#Simulink)
-4. [Model Based Concept Projects](#projects)
+4. [Model Based Concept Projects](#Model-Based-Concept-Projects)
 5. [Folder Structure](#folder-structure)
    
 
@@ -62,7 +62,7 @@ Objective: In this lab,  will gain hands-on experience with fundamental Simulink
 
 Objective: By the end of this lab, should be able to create and simulate a simple Simulink model, understand basic Simulink blocks, and connect them to build a functional system.
 
-## Projects
+## Model Based Concept Projects
 
 #### [Robot Arm Simulation ](Pojects/Robot_Arm_Simulation)
 
