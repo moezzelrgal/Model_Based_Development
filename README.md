@@ -62,10 +62,13 @@ Objective: In this lab,  will gain hands-on experience with fundamental Simulink
 
 Objective: By the end of this lab, should be able to create and simulate a simple Simulink model, understand basic Simulink blocks, and connect them to build a functional system.
 
-
 ## Projects
 
 #### [Robot Arm Simulation ](Pojects/Robot_Arm_Simulation)
+
+Objective: The project involves the simulation and control of an AC-DC converter system using Simulink. The system comprises a single-phase full-wave rectifier connected to a DC motor. The AC input is rectified to produce a DC output voltage, which is then used to drive the DC motor.
+
+#### [AC-DC Converter Simulation and Control for Single-Phase Full-Wave Rectifier Driving a DC Motor](Pojects/AC_DC_Motor_Control_with_Simulink)
 
 Objective: MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
 
