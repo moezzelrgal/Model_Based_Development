@@ -84,6 +84,10 @@ Objective: This project focuses on simulating the motion of a simple pendulum us
 
 Objective: This project involves creating a Simulink model to simulate an RC circuit and generating C code from the model for deployment on embedded systems, specifically targeting Atmel AVR hardware.
 
+#### [Temperature Control System](Pojects/Temperature_Control_System)
+
+Objective: project involves the design, simulation, code generation, and deployment of a temperature control system using MATLAB/Simulink. The aim is to create a control system that regulates the temperature of a system based on a given setpoint. code is generated for the Simulink model "Temperature_Control". It represents the implementation of a temperature control system designed in Simulink and optimized for execution and memory efficiency on ARM Cortex-A compatible embedded hardware.
+
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
   - `/LAB1`: Details about LAB 1.
