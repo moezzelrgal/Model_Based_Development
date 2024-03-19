@@ -13,7 +13,7 @@ This repository is dedicated to my studies and projects related to Model-Based D
 1. [Introduction to Model-Based Development](#introduction-to-model-based-development)
 2. [MATLAB](#MATLAB)
 3. [Simulink](#Simulink)
-4. [Projects](#projects)
+4. [Model Based Concept Projects](#projects)
 5. [Folder Structure](#folder-structure)
    
 
