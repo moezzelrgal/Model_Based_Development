@@ -76,7 +76,9 @@ Objective: MATLAB app for simulating the motion of a robotic arm. It allows user
 
 Objective: This project explores the behavior of a Spring-Mass-Damper system using Simulink and MATLAB. The system consists of a mass connected to a spring and damper, and its response is studied under varying mass values. By simulating the system with different mass parameters, we aim to observe how mass affects the displacement of the system over time. The project includes a Simulink model of the system, a MATLAB script for automating simulations and analyzing results, and plots showcasing the system's response for different mass values.
 
+#### [Spring-Mass-Damper System Analysis](Pojects/Simple_Pendulum_Motion_Simulation)
 
+Objective: This applied learning project focuses on simulating the motion of a simple pendulum using MATLAB and Simulink. The project aims to provide hands-on experience in modeling and simulating dynamic systems, particularly focusing on the fundamentals of MATLAB and Simulink.
 
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
