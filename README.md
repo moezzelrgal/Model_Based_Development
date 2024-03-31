@@ -14,7 +14,9 @@ This repository is dedicated to my studies and projects related to Model-Based D
 2. [MATLAB](#MATLAB)
 3. [Simulink](#Simulink)
 4. [Model Based Concept Projects](#Model-Based-Concept-Projects)
-5. [Folder Structure](#folder-structure)
+5. [PID Controller](#PID-Controller)
+6. [Folder Structure](#folder-structure)
+7. [License](#License)
    
 
 ## Introduction to Model-Based Development
@@ -92,6 +94,16 @@ Objective: project involves the design, simulation, code generation, and deploym
 
 Objective: The project focuses on designing and implementing an automated irrigation control system to optimize water usage in agricultural or garden settings. The system utilizes soil moisture sensors to monitor the moisture level in the soil and activates irrigation when necessary to maintain optimal soil moisture levels. MATLAB/Simulink is used for system modeling, control algorithm design, and code generation. The generated code is then deployed onto an Atmel AVR microcontroller for real-time control and operation.
 
+## PID Controller
+
+#### [LAB 1: First-Order System Analysis](PID_Controller/LABS/LAB1)
+
+Objective: This practical lab is designed to help students or engineers understand and apply the concepts of first-order system analysis. Participants will learn how to model a first-order system, analyze its time response, and observe the effects of different system parameters on its behavior With Arduino UNO .
+
+#### [LAB 2: First Order and Second Order Systems Analysis](PID_Controller/LABS/LAB2)
+
+Objective: Creating a practical lab to study first-order and second-order systems using MATLAB and Simulink is a great way to gain hands-on experience with control systems.
+
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
   - `/LAB1`: Details about LAB 1.
@@ -103,3 +115,27 @@ Objective: The project focuses on designing and implementing an automated irriga
 - `/docs`: Additional documentation related to the projects or MBD concepts.
 - `/scripts`: Any scripts or tools used in the development process.
 - `/examples`: Code examples or model files that illustrate specific concepts.
+
+## [License](#License)
+MIT License
+
+Copyright (c) [2024] [Mohamed Ezzelrgal]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
