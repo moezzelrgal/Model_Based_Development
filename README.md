@@ -54,43 +54,42 @@ Objective: In this task,  will create a MATLAB program that covers various aspec
 
 ## [Simulink](Simulink)
 
-### LABs
 
-#### [LAB 1: Basic Simulink Blocks ](Simulink/LAB1)
+### [LAB 1: Basic Simulink Blocks ](Simulink/LAB1)
 
 Objective: In this lab,  will gain hands-on experience with fundamental Simulink blocks and learn how to create a simple simulation model.
 
-#### [LAB 2: Basic Simulink Blocks ](Simulink/LAB2)
+### [LAB 2: Basic Simulink Blocks ](Simulink/LAB2)
 
 Objective: By the end of this lab, should be able to create and simulate a simple Simulink model, understand basic Simulink blocks, and connect them to build a functional system.
 
 ## Model Based Concept Projects
 
-#### [Robot Arm Simulation ](Pojects/Robot_Arm_Simulation)
+### [Robot Arm Simulation ](Pojects/Robot_Arm_Simulation)
 
 Objective: The project involves the simulation and control of an AC-DC converter system using Simulink. The system comprises a single-phase full-wave rectifier connected to a DC motor. The AC input is rectified to produce a DC output voltage, which is then used to drive the DC motor.
 
-#### [AC-DC Converter Simulation and Control for Single-Phase Full-Wave Rectifier Driving a DC Motor](Pojects/AC_DC_Motor_Control_with_Simulink)
+### [AC-DC Converter Simulation and Control for Single-Phase Full-Wave Rectifier Driving a DC Motor](Pojects/AC_DC_Motor_Control_with_Simulink)
 
 Objective: MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
 
-#### [Spring-Mass-Damper System Analysis](Pojects/Spring_Mass_Damper)
+### [Spring-Mass-Damper System Analysis](Pojects/Spring_Mass_Damper)
 
 Objective: This project explores the behavior of a Spring-Mass-Damper system using Simulink and MATLAB. The system consists of a mass connected to a spring and damper, and its response is studied under varying mass values. By simulating the system with different mass parameters, we aim to observe how mass affects the displacement of the system over time. The project includes a Simulink model of the system, a MATLAB script for automating simulations and analyzing results, and plots showcasing the system's response for different mass values.
 
-#### [Simple Pendulum Motion Simulation](Pojects/Simple_Pendulum_Motion_Simulation)
+### [Simple Pendulum Motion Simulation](Pojects/Simple_Pendulum_Motion_Simulation)
 
 Objective: This project focuses on simulating the motion of a simple pendulum using MATLAB/Simulink and generating C code for deployment on ARM Cortex-M hardware platforms. The simulation model is based on the differential equation governing the motion of a simple pendulum, considering parameters such as length and gravitational acceleration. The generated C code efficiently computes the pendulum's motion, providing an execution- and memory-efficient solution suitable for embedded systems.
 
-#### [RC Circuit Simulation](Pojects/RC_Circuit_Simulation)
+### [RC Circuit Simulation](Pojects/RC_Circuit_Simulation)
 
 Objective: This project involves creating a Simulink model to simulate an RC circuit and generating C code from the model for deployment on embedded systems, specifically targeting Atmel AVR hardware.
 
-#### [Temperature Control System](Pojects/Temperature_Control_System)
+### [Temperature Control System](Pojects/Temperature_Control_System)
 
 Objective: project involves the design, simulation, code generation, and deployment of a temperature control system using MATLAB/Simulink. The aim is to create a control system that regulates the temperature of a system based on a given setpoint. code is generated for the Simulink model "Temperature_Control". It represents the implementation of a temperature control system designed in Simulink and optimized for execution and memory efficiency on ARM Cortex-A compatible embedded hardware.
 
-#### [Automated Irrigation Control System](Pojects/Automated_Irrigation_Control_System)
+### [Automated Irrigation Control System](Pojects/Automated_Irrigation_Control_System)
 
 Objective: The project focuses on designing and implementing an automated irrigation control system to optimize water usage in agricultural or garden settings. The system utilizes soil moisture sensors to monitor the moisture level in the soil and activates irrigation when necessary to maintain optimal soil moisture levels. MATLAB/Simulink is used for system modeling, control algorithm design, and code generation. The generated code is then deployed onto an Atmel AVR microcontroller for real-time control and operation.
 
