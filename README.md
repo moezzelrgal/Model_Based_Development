@@ -69,29 +69,50 @@ repmat function.
 
    - Objective: The project involves the simulation and control of an AC-DC converter system using Simulink. The system comprises a single-phase full-wave rectifier connected to a DC motor. The AC input is rectified to produce a DC output voltage, which is then used to drive the DC motor.
 
+![Screenshot 2024-02-20 152401](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/276beb1e-29ab-488f-8aa9-90501ba4d7ed)
+
+
 - ### [AC-DC Converter Simulation and Control for Single-Phase Full-Wave Rectifier Driving a DC Motor](Pojects/AC_DC_Motor_Control_with_Simulink)
 
    - Objective: MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
+
+![Screenshot 2024-03-19 035650](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/b7389649-7822-45c2-bd7d-27018eca7c1d)
+
 
 - ### [Spring-Mass-Damper System Analysis](Pojects/Spring_Mass_Damper)
 
    - Objective: This project explores the behavior of a Spring-Mass-Damper system using Simulink and MATLAB. The system consists of a mass connected to a spring and damper, and its response is studied under varying mass values. By simulating the system with different mass parameters, we aim to observe how mass affects the displacement of the system over time. The project includes a Simulink model of the system, a MATLAB script for automating simulations and analyzing results, and plots showcasing the system's response for different mass values.
 
+![Screenshot 2024-04-01 050822](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/309ddcb3-1ba2-478a-969d-86233df6ad06)
+
+
 - ### [Simple Pendulum Motion Simulation](Pojects/Simple_Pendulum_Motion_Simulation)
 
    - Objective: This project focuses on simulating the motion of a simple pendulum using MATLAB/Simulink and generating C code for deployment on ARM Cortex-M hardware platforms. The simulation model is based on the differential equation governing the motion of a simple pendulum, considering parameters such as length and gravitational acceleration. The generated C code efficiently computes the pendulum's motion, providing an execution- and memory-efficient solution suitable for embedded systems.
+
+![Simulation](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/20f916c7-a50c-454f-9981-9ce4e75bb1af)
+
 
 - ### [RC Circuit Simulation](Pojects/RC_Circuit_Simulation)
 
    - Objective: This project involves creating a Simulink model to simulate an RC circuit and generating C code from the model for deployment on embedded systems, specifically targeting Atmel AVR hardware.
 
+![RC_Circute](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/8e770c90-57f4-44fe-9b7d-bd5fec89fa36)
+
+
 - ### [Temperature Control System](Pojects/Temperature_Control_System)
 
    - Objective: project involves the design, simulation, code generation, and deployment of a temperature control system using MATLAB/Simulink. The aim is to create a control system that regulates the temperature of a system based on a given setpoint. code is generated for the Simulink model "Temperature_Control". It represents the implementation of a temperature control system designed in Simulink and optimized for execution and memory efficiency on ARM Cortex-A compatible embedded hardware.
 
+![Model](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/5dba164f-a5d7-4859-b369-42348b696e28)
+
+
 - ### [Automated Irrigation Control System](Pojects/Automated_Irrigation_Control_System)
 
    - Objective: The project focuses on designing and implementing an automated irrigation control system to optimize water usage in agricultural or garden settings. The system utilizes soil moisture sensors to monitor the moisture level in the soil and activates irrigation when necessary to maintain optimal soil moisture levels. MATLAB/Simulink is used for system modeling, control algorithm design, and code generation. The generated code is then deployed onto an Atmel AVR microcontroller for real-time control and operation.
+
+![Model](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/46633b04-89f6-460c-9f4b-567ce11611ad)
+
 
 ## PID Controller
 
