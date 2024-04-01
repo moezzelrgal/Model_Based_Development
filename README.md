@@ -67,14 +67,14 @@ repmat function.
 
 - ### [Robot Arm Simulation ](Pojects/Robot_Arm_Simulation)
 
-   - Objective: The project involves the simulation and control of an AC-DC converter system using Simulink. The system comprises a single-phase full-wave rectifier connected to a DC motor. The AC input is rectified to produce a DC output voltage, which is then used to drive the DC motor.
+   - Objective: MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
 
 ![Screenshot 2024-02-20 152401](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/276beb1e-29ab-488f-8aa9-90501ba4d7ed)
 
-
 - ### [AC-DC Converter Simulation and Control for Single-Phase Full-Wave Rectifier Driving a DC Motor](Pojects/AC_DC_Motor_Control_with_Simulink)
 
-   - Objective: MATLAB app for simulating the motion of a robotic arm. It allows users to input the lengths of two segments of the arm and visualize how the arm moves in response to changes in these lengths.
+   - Objective: The project involves the simulation and control of an AC-DC converter system using Simulink. The system comprises a single-phase full-wave rectifier connected to a DC motor. The AC input is rectified to produce a DC output voltage, which is then used to drive the DC motor.
+
 
 ![Screenshot 2024-03-19 035650](https://github.com/moezzelrgal/Model_Based_Development/assets/101054811/b7389649-7822-45c2-bd7d-27018eca7c1d)
 
