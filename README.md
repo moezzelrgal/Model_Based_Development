@@ -123,6 +123,11 @@ repmat function.
 - ### [LAB 2: First Order and Second Order Systems Analysis](PID_Controller/LABS/LAB2)
 
    - Objective: Creating a practical lab to study first-order and second-order systems using MATLAB and Simulink is a great way to gain hands-on experience with control systems.
+ 
+- ### [LAB 3: Understanding Open vs. Closed-Loop Systems without Controllers](PID_Controller/LABS/LAB3)
+
+   - Objective: To illustrate the distinction between open-loop and closed-loop systems without incorporating controllers using MATLAB and Simulink.
+  
 
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
