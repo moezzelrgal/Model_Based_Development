@@ -127,6 +127,11 @@ repmat function.
 - ### [LAB 3: Understanding Open vs. Closed-Loop Systems without Controllers](PID_Controller/LABS/LAB3)
 
    - Objective: To illustrate the distinction between open-loop and closed-loop systems without incorporating controllers using MATLAB and Simulink.
+
+- ### [LAB 4: Practical Demonstration of P, I, and PI Controllers](PID_Controller/LABS/LAB4)
+
+   - Objective: Utilize a second-order system, such as a mass-spring-damper system, represented by a transfer function G(s) = 1/(s^2 + 10s + 20). This system mimics physical elements like a mass (inertia), spring (elasticity), and damper (damping). The system provides an appropriate platform to analyze the controller behaviors.
+
   
 
 ## Folder Structure
