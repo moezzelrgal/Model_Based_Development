@@ -132,7 +132,17 @@ repmat function.
 
    - Objective: Utilize a second-order system, such as a mass-spring-damper system, represented by a transfer function G(s) = 1/(s^2 + 10s + 20). This system mimics physical elements like a mass (inertia), spring (elasticity), and damper (damping). The system provides an appropriate platform to analyze the controller behaviors.
 
-  
+- ### [LAB 5: PID Controller Tuning Using S-Shape Methods](PID_Controller/LABS/LAB5)
+
+   - This lab aims to explore the tuning of a PID controller using S-shape methods to optimize the response of a given control system.System Transfer Function:
+The system under consideration has a transfer function represented as: G(s) = 10 / (s+2)(s+5)
+
+
+
+
+
+
+
 
 ## Folder Structure
 - `/LABs`: Contains subdirectories for each individual LAB.
