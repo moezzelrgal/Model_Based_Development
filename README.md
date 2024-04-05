@@ -116,6 +116,8 @@ repmat function.
 
 ## PID Controller
 
+- ## LABS
+
 - ### [LAB 1: First-Order System Analysis](PID_Controller/LABS/LAB1)
 
    - Objective: This practical lab is designed to help students or engineers understand and apply the concepts of first-order system analysis. Participants will learn how to model a first-order system, analyze its time response, and observe the effects of different system parameters on its behavior With Arduino UNO .
@@ -137,9 +139,10 @@ repmat function.
    - This lab aims to explore the tuning of a PID controller using S-shape methods to optimize the response of a given control system.System Transfer Function:
 The system under consideration has a transfer function represented as: G(s) = 10 / (s+2)(s+5)
 
+- ## Projects
+- ### [Detailed Comprehensive Control System Project](PID_Controller_Projects/Project_1)
 
-
-
+   - Objective: This project aims to develop an intricate control system using MATLAB/Simulink, RC circuits, and Arduino. The overarching objective includes the implementation of open-loop and closed-loop control systems, first-order and second-order systems, PID controller design, and parameter tuning. The uniqueness of this project lies in the meticulous design of three second-order systems, representing underdamped, overdamped, and critically damped scenarios, and their real-time implementation using Arduino.
 
 
 
