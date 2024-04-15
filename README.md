@@ -133,10 +133,14 @@ repmat function.
 The system under consideration has a transfer function represented as: G(s) = 10 / (s+2)(s+5)
 
 - ## Projects
-- ### [Detailed Comprehensive Control System Project](PID_Controller_Projects/Project_1)
+  - ### [Detailed Comprehensive Control System Project](PID_Controller_Projects/Project_1)
 
    - Objective: This project aims to develop an intricate control system using MATLAB/Simulink, RC circuits, and Arduino. The overarching objective includes the implementation of open-loop and closed-loop control systems, first-order and second-order systems, PID controller design, and parameter tuning. The uniqueness of this project lies in the meticulous design of three second-order systems, representing underdamped, overdamped, and critically damped scenarios, and their real-time implementation using Arduino.
+ 
 
+- ### [Satellite Control System Design using MATLAB/Simulink](PID_Controller_Projects/Project_2)
+
+   - Objective: This project aims to design a Simple control system for a satellite using MATLAB/Simulink. It includes the analysis and design of two models: the first model represents a DC motor system, and the second model represents the satellite. The models are analyzed using root locus and Bode plots to estimate system stability and performance. Subsequently, a control system is designed using a PID controller and tested using step response simulation to evaluate its performance in controlling the satellite. The project aims to apply the theoretical concepts acquired in control engineering to improve the performance of the satellite and ensure its stability during operation.
 
 
 
