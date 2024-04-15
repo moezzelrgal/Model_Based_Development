@@ -111,36 +111,36 @@ repmat function.
 
 - ## LABS
 
-- ### [LAB 1: First-Order System Analysis](PID_Controller/LABS/LAB1)
+  - ### [LAB 1: First-Order System Analysis](PID_Controller/LABS/LAB1)
 
-   - Objective: This practical lab is designed to help students or engineers understand and apply the concepts of first-order system analysis. Participants will learn how to model a first-order system, analyze its time response, and observe the effects of different system parameters on its behavior With Arduino UNO .
+     - Objective: This practical lab is designed to help students or engineers understand and apply the concepts of first-order system analysis. Participants will learn how to model a first-order system, analyze its time response, and observe the effects of different system parameters on its behavior With Arduino UNO .
 
-- ### [LAB 2: First Order and Second Order Systems Analysis](PID_Controller/LABS/LAB2)
+  - ### [LAB 2: First Order and Second Order Systems Analysis](PID_Controller/LABS/LAB2)
 
-   - Objective: Creating a practical lab to study first-order and second-order systems using MATLAB and Simulink is a great way to gain hands-on experience with control systems.
+     - Objective: Creating a practical lab to study first-order and second-order systems using MATLAB and Simulink is a great way to gain hands-on experience with control systems.
  
-- ### [LAB 3: Understanding Open vs. Closed-Loop Systems without Controllers](PID_Controller/LABS/LAB3)
+  - ### [LAB 3: Understanding Open vs. Closed-Loop Systems without Controllers](PID_Controller/LABS/LAB3)
 
-   - Objective: To illustrate the distinction between open-loop and closed-loop systems without incorporating controllers using MATLAB and Simulink.
+     - Objective: To illustrate the distinction between open-loop and closed-loop systems without incorporating controllers using MATLAB and Simulink.
 
-- ### [LAB 4: Practical Demonstration of P, I, and PI Controllers](PID_Controller/LABS/LAB4)
+  - ### [LAB 4: Practical Demonstration of P, I, and PI Controllers](PID_Controller/LABS/LAB4)
 
-   - Objective: Utilize a second-order system, such as a mass-spring-damper system, represented by a transfer function G(s) = 1/(s^2 + 10s + 20). This system mimics physical elements like a mass (inertia), spring (elasticity), and damper (damping). The system provides an appropriate platform to analyze the controller behaviors.
+     - Objective: Utilize a second-order system, such as a mass-spring-damper system, represented by a transfer function G(s) = 1/(s^2 + 10s + 20). This system mimics physical elements like a mass (inertia), spring (elasticity), and damper (damping). The system provides an appropriate platform to analyze the controller behaviors.
 
-- ### [LAB 5: PID Controller Tuning Using S-Shape Methods](PID_Controller/LABS/LAB5)
+  - ### [LAB 5: PID Controller Tuning Using S-Shape Methods](PID_Controller/LABS/LAB5)
 
-   - This lab aims to explore the tuning of a PID controller using S-shape methods to optimize the response of a given control system.System Transfer Function:
+     - This lab aims to explore the tuning of a PID controller using S-shape methods to optimize the response of a given control system.System Transfer Function:
 The system under consideration has a transfer function represented as: G(s) = 10 / (s+2)(s+5)
 
 - ## Projects
   - ### [Detailed Comprehensive Control System Project](PID_Controller_Projects/Project_1)
 
-   - Objective: This project aims to develop an intricate control system using MATLAB/Simulink, RC circuits, and Arduino. The overarching objective includes the implementation of open-loop and closed-loop control systems, first-order and second-order systems, PID controller design, and parameter tuning. The uniqueness of this project lies in the meticulous design of three second-order systems, representing underdamped, overdamped, and critically damped scenarios, and their real-time implementation using Arduino.
+      - Objective: This project aims to develop an intricate control system using MATLAB/Simulink, RC circuits, and Arduino. The overarching objective includes the implementation of open-loop and closed-loop control systems, first-order and second-order systems, PID controller design, and parameter tuning. The uniqueness of this project lies in the meticulous design of three second-order systems, representing underdamped, overdamped, and critically damped scenarios, and their real-time implementation using Arduino.
  
 
-- ### [Satellite Control System Design using MATLAB/Simulink](PID_Controller_Projects/Project_2)
+  - ### [Satellite Control System Design using MATLAB/Simulink](PID_Controller_Projects/Project_2)
 
-   - Objective: This project aims to design a Simple control system for a satellite using MATLAB/Simulink. It includes the analysis and design of two models: the first model represents a DC motor system, and the second model represents the satellite. The models are analyzed using root locus and Bode plots to estimate system stability and performance. Subsequently, a control system is designed using a PID controller and tested using step response simulation to evaluate its performance in controlling the satellite. The project aims to apply the theoretical concepts acquired in control engineering to improve the performance of the satellite and ensure its stability during operation.
+     - Objective: This project aims to design a Simple control system for a satellite using MATLAB/Simulink. It includes the analysis and design of two models: the first model represents a DC motor system, and the second model represents the satellite. The models are analyzed using root locus and Bode plots to estimate system stability and performance. Subsequently, a control system is designed using a PID controller and tested using step response simulation to evaluate its performance in controlling the satellite. The project aims to apply the theoretical concepts acquired in control engineering to improve the performance of the satellite and ensure its stability during operation.
 
 
 
